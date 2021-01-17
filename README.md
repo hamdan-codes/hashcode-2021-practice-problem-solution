@@ -5,6 +5,6 @@ The simplest of approaches without much of logic building.
 ## Competition Link : <a href="https://hashcodejudge.withgoogle.com/#/rounds/5751229732880384/"> https://hashcodejudge.withgoogle.com/#/rounds/5751229732880384/ </a>
 
 # My scores : 
-<img src="https://github.com/hamdan-codes/hashcode-2021-practice-problem-solution/blob/main/Scores.PNG?raw=true" alt="Girl in a jacket" width="800" height="400">
+<img src="https://github.com/hamdan-codes/hashcode-2021-practice-problem-solution/blob/main/Scores.PNG?raw=true" alt="My Submission Score" width="800" height="400">
 
 ### Thank You
