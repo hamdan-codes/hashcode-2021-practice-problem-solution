@@ -1,4 +1,5 @@
 # hashcode-2021-practice-problem-solution
+The simplest of approach without much of logic building.
 # Author <a href="https://chaudharyhamdan.me/">Chaudhary Hamdan </a>
 #### Just Clone the repo or Download or Fork and run on your system and you are good to go.
 ## Competition Link : <a href="https://hashcodejudge.withgoogle.com/"> https://hashcodejudge.withgoogle.com/ </a>
