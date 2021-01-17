@@ -125,7 +125,7 @@ for i in range(l):
             f.write('\n')
     
     # Printing to Terminal to get the progress.
-    print("Done ",files[i],"\nScore :",score)
+    print("Done ",files[i],"\nScore :",bestscore)
     
 # Printing for 'THE END'.
 print("All Done")
